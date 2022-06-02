@@ -91,7 +91,7 @@
     "File was not found"
 }
 ```
-# Publish the document [/api/v1/document/{id}/publish]
+## Publish the document [/api/v1/document/{id}/publish]
 
 ### Публикация документа [POST]
 
